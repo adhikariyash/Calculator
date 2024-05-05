@@ -19,13 +19,14 @@ body{
     color:white;
     border-radius: 20px;
     border: 4px solid rgb(255, 243, 136);
-    width: 13.5rem;
+    width: 15.5rem;
     overflow: hidden;
 }
 .screen-area{
     margin-top: 30px;
     overflow-x: scroll;
      text-align: end;
+     overflow-y: hidden;
 }
 .input{
     font-size: 2rem;
